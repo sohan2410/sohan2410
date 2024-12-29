@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sohan Bandary</h1>
 <h3 align="center">A passionate software developer from India </h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan2410&label=Profile%20views&color=0e75b6&style=flat" alt="sohan2410" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan2410&label=Profile%20views&color=0e75b6&style=flat" alt="sohan2410" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [portfolio](https:sohanbandary.com/)
+<!-- - 👨‍💻 All of my projects are available at [portfolio](https:sohanbandary.com/)
 
 - 💬 Ask me about **python, node, express**
 
