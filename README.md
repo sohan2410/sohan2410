@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan Bandary</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate software developer from India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan2410&label=Profile%20views&color=0e75b6&style=flat" alt="sohan2410" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan2410&label=Profile%20views&color=0e75b6&style=flat" alt="sohan2410" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [portfolio](https:sohanbandary.com/)
@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **bandarysohan24@gmail.com**
 
+-->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,9 +36,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
-![AWS](https://img.shields.io/badge/-AWS-%23FF9900.svg?style=flat&logo=amazon-aws)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-05122A?style=flat&logo=gitlab)&nbsp;
@@ -52,6 +53,16 @@
 <p align="center"> <a href="https://git.io/streak-stats"><img alt="Sohan Bandary's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=sohan2410&theme=onedark&hide_border=true" /></a> </p>
 <a href="https://github.com/sohan2410/github-readme-stats"><img alt="Manish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sohan2410&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" /></a> 
 <a href="https://github.com/sohan2410/github-readme-stats"><img alt="Manish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://sohanbandaryc.om"><img src="https://img.shields.io/badge/-sohanbandary.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sohan-bandary"><img src="https://img.shields.io/badge/-Sohan%20Bandary-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bandarysohan24@gmail.com"><img src="https://img.shields.io/badge/-bandarysohan24@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/sohan_bandary"><img src="https://img.shields.io/badge/-@sohan_bandary-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://facebook.com/theninzza"><img src="https://img.shields.io/badge/-@theninzza-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2410&layout=compact)](https://github.com/manishprivet) -->
 
