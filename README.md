@@ -56,8 +56,8 @@ No activity tracked
 ### 👀 My Github Stats
 
 <p align="center"> <a href="https://git.io/streak-stats"><img alt="Sohan Bandary's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=sohan2410&theme=onedark&hide_border=true" /></a> </p>
-<a href="https://github.com/sohan2410/github-readme-stats"><img alt="Manish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sohan2410&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" /></a> 
-<a href="https://github.com/sohan2410/github-readme-stats"><img alt="Manish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<a href="https://github.com/sohan2410/github-readme-stats"><img alt="Sohan Bandary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sohan2410&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" /></a> 
+<a href="https://github.com/sohan2410/github-readme-stats"><img alt="Sohan Bandary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
 ## 🤝🏻 &nbsp;Connect with Me
 
